@@ -2,10 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Haleh Falakshahi # the website title (if blank, full name will be used instead)
+title: Haleh Falakshahi, Ph.D. # the website title (if blank, full name will be used instead)
 first_name: Haleh
 middle_name: 
 last_name: Falakshahi
+email: flkshh5@gmail.com
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -66,6 +67,53 @@ max_width: 930px
 serve_og_meta: false # Include Open Graph meta tags in the HTML head
 serve_schema_org: false # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
+
+# -----------------------------------------------------------------------------
+# Social integration
+# -----------------------------------------------------------------------------
+
+acm_id: # your dl.acm.org/profile/id
+blogger_url: # your blogger URL
+bluesky_url: # your bluesky URL
+dblp_url: # your DBLP profile url
+discord_id: # your discord id (18-digit unique numerical identifier)
+facebook_id: # your facebook id
+flickr_id: # your flickr id
+github_username: hfalakshahi # your GitHub user name
+gitlab_username: # your GitLab user name
+ieee_id:  # 37086424968 your ieeexplore.ieee.org/author/id
+inspirehep_id: # Inspire HEP author ID
+instagram_id: # your instagram id
+kaggle_id: # your kaggle id
+keybase_username: # your keybase user name
+lastfm_id: # your lastfm id
+lattes_id: # your ID on Lattes (Brazilian Lattes CV)
+linkedin_username: halehfalakshahi # your LinkedIn user name
+mastodon_username: # your mastodon instance+username in the format instance.tld/@username
+medium_username: # your Medium username
+orcid_id:  # 0000-0002-2650-0156 your ORCID ID
+osf_id: # your OSF ID
+pinterest_id: # your pinterest id
+publons_id: # your ID on Publons
+quora_username: # your Quora username
+research_gate_profile: # your profile on ResearchGate
+scholar_userid: AqHobmcAAAAJ&hl # your Google Scholar ID
+scopus_id:  # 57203268145 your profile on Scopus
+semanticscholar_id: # your Semantic Scholar ID
+spotify_id: # your spotify id
+stackoverflow_id: # your stackoverflow id
+telegram_username: # your Telegram user name
+unsplash_id: # your unsplash id
+wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
+whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
+wikidata_id: # your wikidata id
+wikipedia_id: # your wikipedia id (Case sensitive)
+work_url: # work page URL
+x_username: # your X handle
+youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
+zotero_username: # your zotero username
+
+contact_note: 
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -386,7 +434,7 @@ enable_masonry: true # enables automatic project cards arrangement
 enable_math: true # enables math typesetting (uses MathJax)
 enable_tooltips: false # enables automatic tooltip links generated for each section titles on pages and posts
 enable_darkmode: true # enables switching between light/dark modes
-enable_navbar_social: false # enables displaying social links in the navbar on the about page
+enable_navbar_social: true # enables displaying social links in the navbar on the about page
 enable_project_categories: true # enables categorization of projects into multiple categories
 enable_medium_zoom: true # enables image zoom feature (as on medium.com)
 enable_progressbar: true # enables a horizontal progress bar linked to the vertical scroll position
