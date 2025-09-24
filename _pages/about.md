@@ -9,8 +9,6 @@ profile:
   image: hfalakshahi.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>55 Park Pl NE 18th floor</p>
-    <p>Atlanta, GA 30303</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
