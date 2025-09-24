@@ -1,200 +1,162 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Haleh Falakshahi, PhD",
+    "label": "Postdoctoral Research Associate",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "flkshh5@gmail.computing",
+    "phone": "(505) 639-1396",
+    "url": "https://hfalakshahi.github.io/",
+    "summary": "Postdoctoral researcher at Center for Translational Research in Neuroimaging and Data Science",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "55 Park Pl Floor 18th",
+      "postalCode": "CA 30303",
+      "city": "Atlanta",
       "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+      "region": "Georgia"
+    }
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "TReNDS Center, GSU/GaTech/Emory, Atlanta, GA US",
+      "position": "Postdoctoral Research Associate",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "startDate": "2024-01-01",
+      "endDate": "Present",
+      "summary": "In this role, I lead research in machine learning, focusing on applying advanced models to neuroimaging and psychology data. I design experiments to uncover meaningful insights, managing the full data lifecycle from collection and analysis to curation. Collaborating closely with principal investigators, I contribute to publishing our findings in peer-reviewed journals and presenting them at major conferences. Additionally, I support the development of grant proposals, working with both internal and external teams to secure funding for innovative and impactful projects in neuroscience and psychology.",
+      "highlights": ["AL/ML, Neuroimagig"]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Graduate Student Research Assistant , Georgia Institute of Technology, Tri-institutional Center for Translational Research in Neuroimaging and Data Science (TReNDS), GSU, GATech, Emory",
+      "position": "Graduate Student Research Assistant ",
+      "startDate": "2019-05-19",
+      "endDate": "2023-12-15",
+      "summary": "During my tenure at Georgia Tech, I led innovative research at the intersection of machine learning and neuroimaging, where I orchestrated efforts across diverse teams to develop and implement advanced solutions. My role involved designing and executing strategic machine learning experiments tailored to neuroimaging applications, ensuring that our approaches were both rigorous and aligned with our research objectives. I actively collaborated with principal investigators and multidisciplinary teams, working closely to prepare and publish scientific manuscripts. This experience honed my ability to coordinate and communicate effectively across different areas of expertise. Additionally, I showcased our research findings at various conferences and academic venues, presenting complex data insights to both technical and non-technical audiences. This role underscored my capacity to drive projects forward, foster collaborative relationships, and deliver impactful results.",
+      "highlights": ["Neuroimaging", "Machine Learning", "Deep Learning"]
+    }
+    ,
+    {
+      "name": "Graduate Student Research Assistant , University of New Mexico",
+      "position": "Graduate Student Research Assistant ",
+      "startDate": "2017-05-16",
+      "endDate": "2019-05-19",
+      "summary": "At UNM, I conducted research in machine learning, neuroimaging, and cybersecurity. My work involved designing and evaluating experiments to apply advanced machine learning techniques to these interdisciplinary domains, contributing to the development of innovative research methodologies."
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Georgia Institute of Technology, Atlanta, GA USA",
+      "location": "Atlanta, GA USA",
+      "url": "https://www.gatech.edu/",
+      "area": "Electrical and Computer Engineering ",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2019-05-19",
+      "endDate": "2023-12-15"
+    },
+    {
+      "institution": "University of New Mexico, Albuquerque, NM USA",
+      "location": "Albuquerque, NM USA",
+      "url": "https://www.unm.edu/",
+      "area": "Computer Science",
+      "studyType": "PhD student",
+      "startDate": "2017-08-19",
+      "endDate": "2019-05-19"
+    },
+    {
+      "institution": "University of New Mexico, Albuquerque, NM USA",
+      "location": "Albuquerque, NM USA",
+      "url": "https://www.unm.edu/",
+      "area": "Computer Science",
+      "studyType": "Master of Science",
+      "startDate": "2015-08-19",
+      "endDate": "2018"
+    },
+    {
+      "institution": "Islamic Azad University, Tehran, Iran",
+      "location": "Tehran, Iran",
+      "area": "Computer Software Engineering",
+      "studyType": "Master of Science",
+      "endDate": "2013"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "title": "CRA-Women Grad Cohort Workshop",
+      "date": "2017",
+      "awarder": "CRA-Women",
+      "url": "https://cra.org/cra-wp/grad-cohort-2017-details/",
+      "summary": "Invitation and Travel Grant, Washington Dc"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "title": "Grace Hopper Scholarship",
+      "date": "2016",
+      "awarder": "AnitaB.org and GHC Scholarships",
+      "url": "https://ghc.anitab.org/awards-programs/scholarships",
+      "summary": "Grace Hopper Celebration Scholarship for outstanding women in computer science, Houston."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programming",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "C/C++",
+        "SQL",
+        "MATLAB",
+        "R",
+        "PHP",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "name": "Machine Learning and Deep Learning",
+      "level": "Master",
+      "keywords": [
+        "TensorFlow",
+        "PyTorch",
+        "Keras",
+        "Scikit-learn",
+        "Statsmodel"
       ]
     }
   ],
-  "languages": [
+  "publications": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "name": "Label NOISE-Robust Ensemble Deep Multimodal Framework for NEUROIMAGING Data, 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 2024",
+      "publisher": "IEEE",
+      "releaseDate": "2024",
+      "url": "https://embc.embs.org/2024/wp-content/uploads/sites/102/2024/07/EMBC-2024_Proceedings.pdf",
+      "summary": "Neuroimaging data have become widely studied in the context of identifying brain-based markers of mental illness. however, this work is hampered by the use of symptom and self-report assessments of diagnosis, as well as lack of clarity in the nosological categories. Hence, treating existing diagnostic categories as label noise problems might be beneficial. Ensemble methods and deep learning models were used in many applications and revealed remarkable findings dealing with label noise. In this study, we incorporated deep convolutional frameworks and bagging approaches for diagnostic classification, identifying potential biomarkers and mitigating the effects of label noise across mood and psychosis categories using structural and functional MRI data. We conducted repeated k-fold cross-validation techniques to train individual base models on different subsets of data and aggregate independent models for final classification. Moreover, we interpreted the results and identified class-specific relevant learned features contributing to a successful diagnosis and highlighted differences for different modalities. Overall, our proposed method shows improvement in classification performance."
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Paht-Based Differential Analysis in Near-Centenarians and Centenarians Brain Network, 46th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 2024",
+      "publisher": "IEEE",
+      "releaseDate": "2024",
+      "url": "https://embc.embs.org/2024/wp-content/uploads/sites/102/2024/07/EMBC-2024_Proceedings.pdf",
+      "summary": "Investigating brain networks in dementia-free centenarians offers a unique opportunity to uncover distinctive characteristics contributing to the preservation of cognitive function into their eleventh decade of life. While graph theory techniques have been widely applied in aging studies, the predominant focus has been on graph metrics, with minimal attention given to the intricate information embedded in paths. A more comprehensive understanding of how these paths are disrupted could yield invaluable insights. In this study, we introduce a novel approach to estimating brain graphs for both younger and centenarian groups using a Gaussian graphical model. Employing graph theory, we pinpoint edges within the centenarian group graph that either initiate additional paths or exhibit absent paths compared to the younger group. Our results reveal two critical edges associated with disconnections within and between functional domains. Specifically, one edge pertains to the connection between the visual and cognitive control domains, while the other involves disconnection within the cognitive control domain. The identification of these edges not only advances our understanding of brain networks in centenarians but also sheds light on potential implications for cognitive function. By elucidating disruptions in specific pathways, this research contributes to a more nuanced comprehension of the neural mechanisms underlying successful cognitive aging. Such insights may pave the way for targeted interventions and therapeutic strategies to promote cognitive health in aging populations."
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
+      "name": "A Deep Learning Approach for Psychosis Spectrum Label Noise Detection from Multimodal Neuroimaging, Data 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 2023",
+      "publisher": "IEEE",
+      "releaseDate": "2023",
+      "url": "https://ieeexplore.ieee.org/document/10339949",
+      "summary": "Understanding the structural and functional mechanisms of the brain is challenging for mood and mental disorders. Many neuroimaging techniques are widely used to reveal hidden patterns from different brain imaging modalities. However, these findings are bounded by the limitation of each modality. In addition, the lack of validity of current psychosis nosology created more complications in understanding biomarkers. In this study, we introduced a deep convolutional framework to classify and identify label noises using structural and functional magnetic resonance imaging data. We applied our method to functional and structural MRI data from a schizophrenia dataset and evaluated the model’s performance in a cross-validated form. In addition, we introduced a noise criterion to distinguish a potentially noisy subject for each modality. Our results show the learned model using resting-state functional MRI data is more informative and has higher performance in comparison with structural MRI data. Lastly, based on the noise level, we investigated potential borderline subjects as possible subtypes and made a statistical analysis to distinguish differences between resting-state static functional connectivity features.Clinical Relevance— Results show schizophrenia patients are separable from the healthy control group based on their neuroimaging data and resting-state functional MRI data is more informative than structural MRI data and hence contains less label noise."
+    },
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Network Differential in Gaussian Graphical Models from Multimodal Neuroimaging Data, 45th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 2023",
+      "publisher": "IEEE",
+      "releaseDate": "2023",
+      "url": "https://ieeexplore.ieee.org/document/10340856",
+      "summary": "Multimodal brain network analysis has the potential to provide insights into the mechanisms of brain disorders. Most previous studies have analyzed either unimodal brain graphs or focused on local/global graphic metrics with little consideration of details of disrupted paths in the patient group. As we show, the combination of multimodal brain graphs and disrupted path-based analysis can be highly illuminating to recognize path-based disease biomarkers. In this study, we first propose a way to estimate multimodal brain graphs using static functional network connectivity (sFNC) and gray matter features using a Gaussian graphical model of schizophrenia versus controls. Next, applying the graph theory approach we identify disconnectors or connectors in the patient group graph that create additional paths or cause absent paths compared to the control graph. Results showed several edges in the schizophrenia group graph that trigger missing or additional paths. Identified edges associated with these disrupted paths were identified both within and between dFNC and gray matter which highlights the importance of considering multimodal studies and moving beyond pairwise edges to provide a more comprehensive understanding of brain disorders.Clinical Relevance— We identified a path-based biomarker in schizophrenia, by imitating the structure of paths in a multimodal (sMIR+fMRI) brain graph of the control group. Identified cross-modal edges associated with disrupted paths were related to the middle temporal gyrus and cerebellar regions."
+    },
+    {
+      "name": "Evaluation of boundaries between mood and psychosis disorder using dynamic functional network connectivity (dFNC) via deep learning classification, Human Brain Mapping, 2023",
+      "publisher": "Wiley",
+      "releaseDate": "2023-03-15",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.26273",
+      "summary": "Multimodal brain network analysis has the potential to provide insights into the mechanisms of brain disorders. Most previous studies have analyzed either unimodal brain graphs or focused on local/global graphic metrics with little consideration of details of disrupted paths in the patient group. As we show, the combination of multimodal brain graphs and disrupted path-based analysis can be highly illuminating to recognize path-based disease biomarkers. In this study, we first propose a way to estimate multimodal brain graphs using static functional network connectivity (sFNC) and gray matter features using a Gaussian graphical model of schizophrenia versus controls. Next, applying the graph theory approach we identify disconnectors or connectors in the patient group graph that create additional paths or cause absent paths compared to the control graph. Results showed several edges in the schizophrenia group graph that trigger missing or additional paths. Identified edges associated with these disrupted paths were identified both within and between dFNC and gray matter which highlights the importance of considering multimodal studies and moving beyond pairwise edges to provide a more comprehensive understanding of brain disorders.Clinical Relevance— We identified a path-based biomarker in schizophrenia, by imitating the structure of paths in a multimodal (sMIR+fMRI) brain graph of the control group. Identified cross-modal edges associated with disrupted paths were related to the middle temporal gyrus and cerebellar regions."
     }
   ]
 }
